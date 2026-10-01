@@ -1,3 +1,6 @@
+# Vs Extension
+- [CPH](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
+
 # Installing GCC/G++ on macOS
 
 This guide explains how to install the GNU C and C++ compilers (`gcc` and `g++`) on macOS using Homebrew.
